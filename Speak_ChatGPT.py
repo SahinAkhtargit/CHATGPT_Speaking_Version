@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  5 01:18:44 2023
 
-@author: sahin
+@author: Sahin Akhtar
 """
 import pyttsx3
 import speech_recognition as sr
