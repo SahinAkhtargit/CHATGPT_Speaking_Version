@@ -1,7 +1,7 @@
 # CHATGPT_Speaking_Version
 This is a Speaking version of CHATGPT using the CHATGPT API. It takes voice input and returns voice output as well as text.
 To run this, I use "Spyder (Python 3.9)" version here.
-Before execute this program we need some library 
+Before executing this program, we need some libraries.
 1. pyttsx3
 2. speech_recognition as sr
 3. openai
